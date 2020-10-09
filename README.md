@@ -28,4 +28,4 @@
 
 [twitter]: https://twitter.com/becausemirbek
 [instagram]: https://instagram.com/mirbaa_
-[linkedin]: https://linkedin.com/in/becausemirbek
+[linkedin]: https://linkedin.com/in/mirbek-baratbaev-a99a471a1
