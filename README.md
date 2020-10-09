@@ -5,7 +5,7 @@
 [<img align="left" alt="becausemirbek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="becausemirbek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mirbaa_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="mirbaa_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
 ### My skills:
@@ -29,3 +29,4 @@
 [twitter]: https://twitter.com/becausemirbek
 [instagram]: https://instagram.com/mirbaa_
 [linkedin]: https://linkedin.com/in/mirbek-baratbaev-a99a471a1
+[telegram]: https://linkedin.com/in/mirbek-baratbaev-a99a471a1
