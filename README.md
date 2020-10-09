@@ -28,6 +28,8 @@
 
   <img align="left" alt="becausemirbek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=becausemirbek&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becausemirbek&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/becausemirbek
 [instagram]: https://instagram.com/mirbaa_
 [linkedin]: https://linkedin.com/in/mirbek-baratbaev-a99a471a1
