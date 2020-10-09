@@ -1,6 +1,10 @@
-### Hi there, I'm Mirbek, Front-End dev 👋
+### Hi there, I'm Mirbek👋
 
-### I'm in social networks:
+### Front-End dev, mentor in
+
+[makers][makers]
+
+### Social networks:
 
 [<img align="left" alt="becausemirbek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="becausemirbek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -29,4 +33,5 @@
 [twitter]: https://twitter.com/becausemirbek
 [instagram]: https://instagram.com/mirbaa_
 [linkedin]: https://linkedin.com/in/mirbek-baratbaev-a99a471a1
-[telegram]: https://linkedin.com/in/mirbek-baratbaev-a99a471a1
+[telegram]: https://t.me/becausemirbek
+[makers]: https://makers.kg/
