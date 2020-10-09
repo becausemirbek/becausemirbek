@@ -24,4 +24,7 @@
 
 ---
 
-  <img align="left" alt="becausemirbek's GitHub Stats" src="https://github-readme-stats.becausemirbek.vercel.app/api?username=becausemirbek&show_icons=true&hide_border=true" />
+<details>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
