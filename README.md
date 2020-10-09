@@ -1,6 +1,6 @@
 ### Hi there, I'm Mirbek👋
 
-### Front-End dev, mentor in [makers][makerskg]
+### Front-End dev, mentor in [makerskg][makers]
 
 ### Social networks:
 
