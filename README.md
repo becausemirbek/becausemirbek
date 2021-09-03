@@ -1,7 +1,5 @@
 ### Hi there, I'm Mirbek👋
 
-### Front-End dev, mentor in [makerskg][makers]
-
 ### Social networks:
 
 [<img align="left" alt="mirbaa_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
